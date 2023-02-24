@@ -16,4 +16,4 @@ client/node_modules/
 
 
 # client files
-build
+client/build/
