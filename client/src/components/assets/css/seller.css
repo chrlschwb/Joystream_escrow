@@ -1,0 +1,6 @@
+.seller-back {
+	position: relative;
+	background: url('../img/back2.jpg') no-repeat center center/cover;
+	height: 100%;
+	padding: 5%;
+}

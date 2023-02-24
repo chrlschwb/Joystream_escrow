@@ -1,0 +1,14 @@
+.buy-modal {
+	width: 270px;
+	padding: 0px;
+}
+.buy-card-btn {
+	padding-left: 3px;
+	padding-right: 3px;
+}
+.buy-back {
+	position: relative;
+	background: url('../img/back2.jpg') no-repeat center center/cover;
+	height: 100%;
+	padding: 5%;
+}
